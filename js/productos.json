@@ -1,0 +1,46 @@
+{
+  "arrayproductos":[
+                { "id":1,
+                    "nombre":"COSTILLA DE ADÁN",
+                    "descripcion":"También denominada monstera deliciosa, de la familia de las aráceas es una especie tropical del centro y sur de América.",
+                    "imagen":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1640123135-510QdGWg98L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+                    "precio":500,
+                    "stock":100 
+                },
+                {"id":2,
+                "nombre":"ANTURIO ROJO",
+                "descripcion":"Esta planta tan bonita, florece durante casi todo el año, así que es, básicamente, un espectáculo visual. Sólo requiere luz indirecta y tierra húmeda. ",
+                "imagen":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1640123421-41eDp4i8zuL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+                "precio":500,
+                "stock":100 
+                } ,
+                {   "id":3,
+                    "nombre":"CINTA",
+                    "descripcion":"Esta araña de hoja verde en cascada pertenece a la especie fanerógama del grupo chlorophytum, originaria de Sudáfrica,  es muy fácil de cultivar.",
+                    "imagen":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1636814981-41Q-JUhi2pS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+                    "precio":1500,
+                    "stock":200 
+                },
+                {   "id":4,
+                    "nombre":"CINTA",
+                    "descripcion":"Esta araña de hoja verde en cascada pertenece a la especie fanerógama del grupo chlorophytum, originaria de Sudáfrica,  es muy fácil de cultivar.",
+                    "imagen":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1636814981-41Q-JUhi2pS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+                    "precio":1500,
+                    "stock":200 
+                },
+                {   "id":5,
+                    "nombre":"CINTA",
+                    "descripcion":"Esta araña de hoja verde en cascada pertenece a la especie fanerógama del grupo chlorophytum, originaria de Sudáfrica,  es muy fácil de cultivar.",
+                    "imagen":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1636814981-41Q-JUhi2pS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+                    "precio":1500,
+                    "stock":200 
+                },
+                {   "id":6,
+                    "nombre":"CINTA",
+                    "descripcion":"Esta araña de hoja verde en cascada pertenece a la especie fanerógama del grupo chlorophytum, originaria de Sudáfrica,  es muy fácil de cultivar.",
+                    "imagen":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1636814981-41Q-JUhi2pS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+                    "precio":1500,
+                    "stock":200 
+                }
+              ]
+}
